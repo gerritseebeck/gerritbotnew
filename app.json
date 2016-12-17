@@ -1,7 +1,7 @@
 {
-  "name": "Smooch Bot Example App",
-  "description": "Smooch Bot example using Express",
-  "keywords": ["smooch", "bot", "express"],
+  "name": "Gerrit Bot",
+  "description": "Gerrit's application bot",
+  "keywords": ["gerrit", "bot", "express"],
   "website": "https://smooch.io",
   "repository": "https://github.com/smooch/smooch-bot-example",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
